@@ -23,8 +23,9 @@ height: 100%;
 width: 50%;
 /* background-color: chartreuse; */
 display: flex;
-justify-content: center;
+/* justify-content: center; */
 align-items: center;
+padding-left: 50px;
 gap: 20px;
 }
 .nav_left h4{
